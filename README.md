@@ -108,5 +108,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## ✨ Author
 
-Made with ❤️ by **[Your Name]**  
-[GitHub Profile](https://github.com/yourusername)
+Made with ❤️ by **[FEVIN THUMBAR]**  
+[GitHub Profile](https://github.com/fhthumbar)
